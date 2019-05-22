@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Richards\\Desktop\\QoQ\\Quest-of-Questions-master\\Quest of Questions\\Quest of Questions\\Quest of Questions.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Richards\\Desktop\\QoQ\\Quest-of-Questions-master\\Quest of Questions\\Quest of Questions\\Quest of Questions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Richards\\Desktop\\QoQ\\Quest-of-Questions-master\\Quest of Questions\\Quest of Questions\\Quest of Questions.csproj",
+        "projectName": "Quest of Questions",
+        "projectPath": "C:\\Users\\Richards\\Desktop\\QoQ\\Quest-of-Questions-master\\Quest of Questions\\Quest of Questions\\Quest of Questions.csproj",
+        "packagesPath": "C:\\Users\\Richards\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Richards\\Desktop\\QoQ\\Quest-of-Questions-master\\Quest of Questions\\Quest of Questions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Richards\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
